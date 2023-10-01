@@ -1,6 +1,9 @@
 # Foreign Object Debris (FOD) dataset
 
-The directory structure containing the dataset is as follows:
+## Only 256x256 images have been uploaded to GitHub, due to repository size restrictions. 
+### Full dataset is avalible at kaggle: 
+[kaggle.com/datasets/lukaszkozak/foreign-object-debris-fod-dataset](https://www.kaggle.com/datasets/lukaszkozak/foreign-object-debris-fod-dataset)
+### The directory structure containing the dataset is as follows:
 
   - Images
     - *training* - sets of images used for training neural networks, categorized by resolution. Folders labeled PASCAL_VOC contains additional XML information about location of FOD,
@@ -21,6 +24,10 @@ The directory structure containing the dataset is as follows:
     - REC_4.MP4
     - REC_5.MP4
     - REC_6.MP4
+
+### Example images:
+![Test image of FOD 1](/testing/256x256/IMG_5543_256x256.jpg)
+![Test image of FOD 2](/testing/256x256/IMG_5635_256x256.jpg)
 
 
 This dataset was created as part of MSc thesis: 
