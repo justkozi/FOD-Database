@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_5759_90_jpg.rf.b375fbfc1c92223b91205d9acef8a51f.jpg</filename>
+	<path>IMG_5759_90_jpg.rf.b375fbfc1c92223b91205d9acef8a51f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FOD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>63</xmax>
+			<ymin>212</ymin>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
